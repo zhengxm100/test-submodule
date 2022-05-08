@@ -1,3 +1,3 @@
-exports.sayHi = function() {
+export const sayHi = function () {
     console.log('hi')
 }
